@@ -4,7 +4,7 @@
 This repository tracks my progress learning web development with the MERN stack.
 
 ### Learning Phases
-- HTML, CSS & Tailwind CSS Fundamentals
+- HTML, CSS & Tailwind CSS Fundamentals and Bootstrap
 - JavaScript Basics
 - React.js
 - Node.js & Express
