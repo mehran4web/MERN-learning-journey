@@ -63,6 +63,27 @@ Follow these steps to create a new React + Tailwind + Vite project inside your e
 
 ---
 
+✅ How to Start a New Branch for Your Challenge
+
+From the root of your repo:
+
+```bash
+git checkout -b challenge/3-column-preview-card
+```
+
+Now you’re on a new branch called challenge/3-column-preview-card, and all your changes — including the copied starter, your code, and assets — will live here.
+
+🧼 Optional: Once You Finish the Challenge
+
+You can merge back to main:
+```bash
+git checkout main
+git merge challenge/3-column-preview-card
+```
+
+
+Or just leave it as-is if you want to keep challenges on separate branches.
+
 ### 🚀 You're Ready!
 
 Now you can start working on your challenge using the clean setup from the starter.
